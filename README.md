@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M. Danish Maqsood
+# 👋 Hi, I'm Danish Maqsood
 
 **Full Stack AI Developer** 8+ years building production ready intelligent applications
 
