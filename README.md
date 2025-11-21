@@ -46,10 +46,30 @@ I am passionate about combining AI and modern web technologies to build smart, s
 
 ---
 
-## 📂 Featured Projects  
-- **Project A** — Short description + tech used  
-- **Project B** — Short description + tech used  
-- **Project C** — … 
+📂 Featured Projects
+🔹 AI Chatbot Platform
+
+A full-featured chatbot system using an LLM with memory, retrieval, and custom tool integration.
+Tech: Python, FastAPI, LangChain, OpenAI, Pinecone, React
+🔗 GitHub: https://github.com/mdanishmaqsood/ai-chatbot-platform
+
+🔹 RAG Document Search System
+
+Semantic search engine for large document collections using embeddings and vector databases.
+Tech: Python, FastAPI, Chroma, LlamaIndex, React
+🔗 GitHub: https://github.com/mdanishmaqsood/rag-document-search
+
+🔹 Autonomous Agent / AI Workflow
+
+Agent-based automation system that interacts with APIs and executes tasks intelligently.
+Tech: Python, LangChain, Async, Redis / RabbitMQ
+🔗 GitHub: https://github.com/mdanishmaqsood/ai-agent-workflow
+
+🔹 Full-Stack Task Management App
+
+A web app for managing tasks with real-time updates, authentication, and a clean admin interface.
+Tech: Node.js, Express, MongoDB, React, Redux
+🔗 GitHub: https://github.com/mdanishmaqsood/task-manager-app
 
 ---
 
