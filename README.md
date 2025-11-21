@@ -57,3 +57,8 @@ I am passionate about combining AI and modern web technologies to build smart, s
 Email: danishmaqsood983@gmail.com  
 LinkedIn: https://www.linkedin.com/in/mdanishmaqsood
 Upwork: https://www.upwork.com/freelancers/danishmaqsood4 
+
+## ⚡ GitHub Stats
+
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdanishmaqsood&show_icons=true&theme=dark)
+
