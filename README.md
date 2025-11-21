@@ -46,7 +46,8 @@ I am passionate about combining AI and modern web technologies to build smart, s
 
 ---
 
-📂 Featured Projects
+📂 Featured Projects:
+
 🔹 AI Chatbot Platform
 A full-featured chatbot system using an LLM with memory, retrieval, and custom tool integration.
 Tech: Python, FastAPI, LangChain, OpenAI, Pinecone, React
