@@ -66,6 +66,14 @@ Tech: Node.js, Express, MongoDB, React, Redux
 
 ---
 
+🎓 Education
+
+Bachelors in Computer Science (CGPA: 3.8)
+University of Engineering & Technology (UET)
+2013 – 2017 | Lahore, Pakistan
+
+---
+
 ## 📬 Contact Me  
 Email: danishmaqsood983@gmail.com  
 LinkedIn: https://www.linkedin.com/in/mdanishmaqsood
