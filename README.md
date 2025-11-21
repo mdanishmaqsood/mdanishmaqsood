@@ -73,6 +73,19 @@ University of Engineering & Technology (UET)
 2013 – 2017 | Lahore, Pakistan
 
 ---
+## 🚀 Certifications
+
+**Data Analysis Using Python**  
+Verified by Credly | Provider: IBM | Issued: March 2025  
+Skills: Information Analysis, Jupyter Notebook, JupyterLab, Data Analysis, Python Script, Python  
+[View Certification](https://www.credly.com/badges/25343103-de4c-4377-8646-baccf183ee9c)  
+
+**Web Development with Python**  
+Verified by Credly | Provider: IBM | Issued: March 2025  
+Skills: Beta Testing, Git, Object-Oriented Programming, Software Testing, Testing, Software QA, Static Testing, Python Script, unittest  
+[View Certification](https://www.credly.com/badges/7a22e385-d82f-4ab9-bb31-a25326adc1c5)  
+
+---
 
 ## 📬 Contact Me  
 Email: danishmaqsood983@gmail.com  
