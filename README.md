@@ -1,13 +1,13 @@
 # 👋 Hi, I'm M. Danish Maqsood
 
-**Full Stack AI Developer** — 8+ years building production-ready intelligent applications
+**Full Stack AI Developer** 8+ years building production ready intelligent applications
 
 ---
 
 ## 🚀 Current Focus  
 - Building AI-powered systems (LLMs, RAG, chatbots)  
 - Full-stack development: Python, JS, Cloud  
-- Scalability, clean architecture, and high performance  
+- Scalability, clean architecture and high performance  
 
 ---
 
@@ -49,7 +49,7 @@ I am passionate about combining AI and modern web technologies to build smart, s
 📂 Featured Projects:
 
 🔹 AI Chatbot Platform
-A full-featured chatbot system using an LLM with memory, retrieval, and custom tool integration.
+A full-featured chatbot system using an LLM with memory, retrieval and custom tool integration.
 Tech: Python, FastAPI, LangChain, OpenAI, Pinecone, React
 
 🔹 RAG Document Search System
@@ -61,7 +61,7 @@ Agent-based automation system that interacts with APIs and executes tasks intell
 Tech: Python, LangChain, Async, Redis / RabbitMQ
 
 🔹 Full-Stack Task Management App
-A web app for managing tasks with real-time updates, authentication, and a clean admin interface.
+A web app for managing tasks with real-time updates, authentication and a clean admin interface.
 Tech: Node.js, Express, MongoDB, React, Redux
 
 ---
